@@ -97,12 +97,12 @@ public class MainActivity extends AppCompatActivity {
         return pokeImages;
     }
 
-    private class MyHandler extends Handler {
-        @Override
-        public void handleMessage(@NonNull Message msg) {
-            super.handleMessage(msg);
-
-
-        }
-    }
+//    private class MyHandler extends Handler {
+//        @Override
+//        public void handleMessage(@NonNull Message msg) {
+//            super.handleMessage(msg);
+//
+//
+//        }
+//    }
 }
